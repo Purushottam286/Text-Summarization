@@ -62,10 +62,10 @@ Anaconda Navigator Uninstalltion step:
 go to the control panel select the anaconda navigator then Uninstall.  
 
 3. Execution 
-For more details on how to use this project, refer to the [procedure document](docs/procedure-documen.pdf).
+For more details on how to use this project, refer to the [procedure document](execution-procedure.pdf).
 
 ## Screenshots
-(assets/GUI_mainpage.png)
+![Screenshot](assets/GUI_mainpage.png)
 
 
 
