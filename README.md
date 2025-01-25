@@ -31,7 +31,7 @@ ral Language Processing) etc.
 4. Matplotlib
 5. opencv
 ## Installation
-1. To get the source code and required files locally
+1. To get the source code and required files locally  
 1.1 Clone the repository:
 
 ```bash
@@ -62,11 +62,11 @@ Anaconda Navigator Uninstalltion step:
 go to the control panel select the anaconda navigator then Uninstall.  
 
 3. Execution 
-For more details on how to use this project, refer to the [procedure document](docs/procedure-document.pdf).
+For more details on how to use this project, refer to the [procedure document](docs/procedure-documen.pdf).
 
 ## Screenshots
+(assets/GUI_mainpage.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## License
