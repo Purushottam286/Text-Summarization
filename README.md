@@ -62,16 +62,18 @@ Anaconda Navigator Uninstalltion step:
 go to the control panel select the anaconda navigator then Uninstall.  
 
 3. Execution 
-For more details on how to use this project, refer to the [procedure document](execution-procedure.pdf).
+For more details on how to use this project, refer to the [procedure document](Execution-Procedure.pdf).
 
 ## Screenshots
 ![Screenshot](assets/GUI_mainpage.png)
-
+![Screenshot](assets/Registration.png)
+![Screenshot](assets/Login_page.png)
+![Screenshot](assets/Result.png)
 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ## Contributing
 Thank you for considering contributing to this project! Contributions are what make open-source software such a great place to learn, inspire, and create. By contributing to this repository, you agree to adhere to the following guidelines.
 
